@@ -1,6 +1,7 @@
 # NLP Master - Question Answering & Text Summarization
 
 [🌐 Live Demo](https://question-answering-summarization.streamlit.app/)
+[Kaggle Notebook](https://www.kaggle.com/code/yousefabdelsalam11/question-answering-summarization-using-transform)
 
 ## Overview
 **NLP Master** is an interactive web application that leverages state-of-the-art **Natural Language Processing (NLP)** models to provide:
